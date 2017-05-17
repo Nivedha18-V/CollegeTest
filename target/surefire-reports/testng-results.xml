@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9927" started-at="2017-05-17T04:43:04Z" finished-at="2017-05-17T04:43:14Z">
+    <groups>
+    </groups>
+    <test name="chromeTestcases" duration-ms="6571" started-at="2017-05-17T04:43:04Z" finished-at="2017-05-17T04:43:11Z">
+      <class name="Org.CollegeTest.ClgTest">
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:Org.CollegeTest.ClgTest@5315b42e]" name="test1" is-config="true" duration-ms="4597" started-at="2017-05-17T10:13:04Z" finished-at="2017-05-17T10:13:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Org.CollegeTest.ClgTest@5315b42e]" name="test2" duration-ms="994" started-at="2017-05-17T10:13:09Z" finished-at="2017-05-17T10:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Org.CollegeTest.ClgTest@5315b42e]" name="test3" is-config="true" duration-ms="952" started-at="2017-05-17T10:13:10Z" finished-at="2017-05-17T10:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Org.CollegeTest.ClgTest -->
+    </test> <!-- chromeTestcases -->
+    <test name="firefoxTestcases" duration-ms="9927" started-at="2017-05-17T04:43:04Z" finished-at="2017-05-17T04:43:14Z">
+      <class name="Org.CollegeTest.ClgTest">
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:Org.CollegeTest.ClgTest@3cda1055]" name="test1" is-config="true" duration-ms="8601" started-at="2017-05-17T10:13:04Z" finished-at="2017-05-17T10:13:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Org.CollegeTest.ClgTest@3cda1055]" name="test2" duration-ms="944" started-at="2017-05-17T10:13:13Z" finished-at="2017-05-17T10:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Org.CollegeTest.ClgTest@3cda1055]" name="test3" is-config="true" duration-ms="379" started-at="2017-05-17T10:13:14Z" finished-at="2017-05-17T10:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Org.CollegeTest.ClgTest -->
+    </test> <!-- firefoxTestcases -->
+  </suite> <!-- Suite -->
+</testng-results>
